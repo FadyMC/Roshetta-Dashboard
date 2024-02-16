@@ -1,0 +1,130 @@
+// Export pages
+export '/pages/profile_page/profile_page_widget.dart' show ProfilePageWidget;
+export '/pages/doctors/doctors_widget.dart' show DoctorsWidget;
+export '/pages/doctorlist/gynocologists_list/gynocologists_list_widget.dart'
+    show GynocologistsListWidget;
+export '/pages/doctorlist/psychologists_list/psychologists_list_widget.dart'
+    show PsychologistsListWidget;
+export '/pages/doctor_add_list/gyno_add/gyno_add_widget.dart'
+    show GynoAddWidget;
+export '/pages/doctorlist/blood_disease_list/blood_disease_list_widget.dart'
+    show BloodDiseaseListWidget;
+export '/pages/doctorlist/blood_vessels_list/blood_vessels_list_widget.dart'
+    show BloodVesselsListWidget;
+export '/pages/doctorlist/bone_surgery_list/bone_surgery_list_widget.dart'
+    show BoneSurgeryListWidget;
+export '/pages/doctorlist/brain_nerves_list/brain_nerves_list_widget.dart'
+    show BrainNervesListWidget;
+export '/pages/doctorlist/children_surgery_list/children_surgery_list_widget.dart'
+    show ChildrenSurgeryListWidget;
+export '/pages/doctorlist/dermatology_list/dermatology_list_widget.dart'
+    show DermatologyListWidget;
+export '/pages/doctorlist/digestive_list/digestive_list_widget.dart'
+    show DigestiveListWidget;
+export '/pages/doctorlist/endocrine_list/endocrine_list_widget.dart'
+    show EndocrineListWidget;
+export '/pages/doctorlist/kidneys_list/kidneys_list_widget.dart'
+    show KidneysListWidget;
+export '/pages/doctorlist/male_disease_list/male_disease_list_widget.dart'
+    show MaleDiseaseListWidget;
+export '/pages/doctorlist/maxilliofacial_list/maxilliofacial_list_widget.dart'
+    show MaxilliofacialListWidget;
+export '/pages/doctorlist/oncology_list/oncology_list_widget.dart'
+    show OncologyListWidget;
+export '/pages/doctorlist/opthlamia_list/opthlamia_list_widget.dart'
+    show OpthlamiaListWidget;
+export '/pages/doctorlist/pectoral_list/pectoral_list_widget.dart'
+    show PectoralListWidget;
+export '/pages/doctorlist/plastic_surgery_list/plastic_surgery_list_widget.dart'
+    show PlasticSurgeryListWidget;
+export '/pages/doctorlist/rheumatism_list/rheumatism_list_widget.dart'
+    show RheumatismListWidget;
+export '/pages/doctorlist/tumor_surgery_list/tumor_surgery_list_widget.dart'
+    show TumorSurgeryListWidget;
+export '/pages/doctorlist/urology_list/urology_list_widget.dart'
+    show UrologyListWidget;
+export '/pages/app_settings/app_settings_widget.dart' show AppSettingsWidget;
+export '/pages/doctor_remove_list/gyno_remove/gyno_remove_widget.dart'
+    show GynoRemoveWidget;
+export '/pages/doctors_add_hub/doctors_add_hub_widget.dart'
+    show DoctorsAddHubWidget;
+export '/pages/doctor_add_list/psycho_add/psycho_add_widget.dart'
+    show PsychoAddWidget;
+export '/pages/doctor_add_list/blood_disease_add/blood_disease_add_widget.dart'
+    show BloodDiseaseAddWidget;
+export '/pages/doctor_add_list/blood_vessel_add/blood_vessel_add_widget.dart'
+    show BloodVesselAddWidget;
+export '/pages/doctor_add_list/bone_surgery_add/bone_surgery_add_widget.dart'
+    show BoneSurgeryAddWidget;
+export '/pages/doctor_add_list/brain_nerves_add/brain_nerves_add_widget.dart'
+    show BrainNervesAddWidget;
+export '/pages/doctor_add_list/children_surgery_add/children_surgery_add_widget.dart'
+    show ChildrenSurgeryAddWidget;
+export '/pages/doctor_add_list/dermatology_add/dermatology_add_widget.dart'
+    show DermatologyAddWidget;
+export '/pages/doctor_add_list/digestive_add/digestive_add_widget.dart'
+    show DigestiveAddWidget;
+export '/pages/doctor_add_list/endocrine_add/endocrine_add_widget.dart'
+    show EndocrineAddWidget;
+export '/pages/doctor_add_list/kidney_add/kidney_add_widget.dart'
+    show KidneyAddWidget;
+export '/pages/doctor_add_list/male_disease_add/male_disease_add_widget.dart'
+    show MaleDiseaseAddWidget;
+export '/pages/doctor_add_list/maxillio_add/maxillio_add_widget.dart'
+    show MaxillioAddWidget;
+export '/pages/doctor_add_list/oncology_add/oncology_add_widget.dart'
+    show OncologyAddWidget;
+export '/pages/doctor_add_list/opthlamia_add/opthlamia_add_widget.dart'
+    show OpthlamiaAddWidget;
+export '/pages/doctor_add_list/pectoral_add/pectoral_add_widget.dart'
+    show PectoralAddWidget;
+export '/pages/doctor_add_list/plastic_add/plastic_add_widget.dart'
+    show PlasticAddWidget;
+export '/pages/doctor_add_list/rheumatism_add/rheumatism_add_widget.dart'
+    show RheumatismAddWidget;
+export '/pages/doctor_add_list/tumorsurgery_add/tumorsurgery_add_widget.dart'
+    show TumorsurgeryAddWidget;
+export '/pages/doctor_add_list/urology_add/urology_add_widget.dart'
+    show UrologyAddWidget;
+export '/pages/doctors_remove_hub/doctors_remove_hub_widget.dart'
+    show DoctorsRemoveHubWidget;
+export '/pages/home_advertisement_banner/home_advertisement_banner_widget.dart'
+    show HomeAdvertisementBannerWidget;
+export '/pages/doctor_remove_list/psyco_remove/psyco_remove_widget.dart'
+    show PsycoRemoveWidget;
+export '/pages/doctor_remove_list/blooddisease_remove/blooddisease_remove_widget.dart'
+    show BlooddiseaseRemoveWidget;
+export '/pages/doctor_remove_list/bloodvessels_remove/bloodvessels_remove_widget.dart'
+    show BloodvesselsRemoveWidget;
+export '/pages/doctor_remove_list/brain_nerves_remove/brain_nerves_remove_widget.dart'
+    show BrainNervesRemoveWidget;
+export '/pages/doctor_remove_list/childrensurgery_remove/childrensurgery_remove_widget.dart'
+    show ChildrensurgeryRemoveWidget;
+export '/pages/doctor_remove_list/dermatology_remove/dermatology_remove_widget.dart'
+    show DermatologyRemoveWidget;
+export '/pages/doctor_remove_list/digestive_remove/digestive_remove_widget.dart'
+    show DigestiveRemoveWidget;
+export '/pages/doctor_remove_list/endocrine_remove/endocrine_remove_widget.dart'
+    show EndocrineRemoveWidget;
+export '/pages/doctor_remove_list/kidney_remove/kidney_remove_widget.dart'
+    show KidneyRemoveWidget;
+export '/pages/doctor_remove_list/male_disease_remvoe/male_disease_remvoe_widget.dart'
+    show MaleDiseaseRemvoeWidget;
+export '/pages/doctor_remove_list/maxillio_remove/maxillio_remove_widget.dart'
+    show MaxillioRemoveWidget;
+export '/pages/doctor_remove_list/oncology_remove/oncology_remove_widget.dart'
+    show OncologyRemoveWidget;
+export '/pages/doctor_remove_list/opthlamia_remove/opthlamia_remove_widget.dart'
+    show OpthlamiaRemoveWidget;
+export '/pages/doctor_remove_list/pectoral_remove/pectoral_remove_widget.dart'
+    show PectoralRemoveWidget;
+export '/pages/doctor_remove_list/plastic_remove/plastic_remove_widget.dart'
+    show PlasticRemoveWidget;
+export '/pages/doctor_remove_list/rheumatism_remove/rheumatism_remove_widget.dart'
+    show RheumatismRemoveWidget;
+export '/pages/doctor_remove_list/tumor_surgery_remove/tumor_surgery_remove_widget.dart'
+    show TumorSurgeryRemoveWidget;
+export '/pages/doctor_remove_list/urology_remove/urology_remove_widget.dart'
+    show UrologyRemoveWidget;
+export '/pages/doctor_remove_list/bone_surgery_remove/bone_surgery_remove_widget.dart'
+    show BoneSurgeryRemoveWidget;
